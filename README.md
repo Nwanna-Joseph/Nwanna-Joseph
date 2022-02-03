@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on exciting and impactful projects
 - 📫 How to reach me -> Send a PR to my ReadMe
+- ✨ My other Repo before joining AMMI (https://github.com/4handheld)
 
 <!---
 Nwanna-Joseph/Nwanna-Joseph is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
