@@ -6,6 +6,7 @@
 - ✨ My other Repo before joining AMMI (https://github.com/4handheld)
 - ➕ I'm a contributor to [scikit-learn](https://github.com/scikit-learn/scikit-learn)
 - ➕ Also a contributor to the popular [https://ml-cheatsheet.readthedocs.io/](https://github.com/bfortuner/ml-glossary)
+- ➕I love sharing/writing about interesting topics (https://medium.com/@jnwanna)
 
 <!---
 Nwanna-Joseph/Nwanna-Joseph is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
