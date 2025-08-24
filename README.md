@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on exciting and impactful projects
 - 📫 How to reach me -> Send a PR to my ReadMe
 - ✨ My other Repo before joining AMMI (https://github.com/4handheld)
-- ➕ I'm a contributor to [scikit-learn](https://github.com/scikit-learn/scikit-learn)
+
+Contributions:
+- ➕ I'm a contributor to [scikit-learn](https://github.com/scikit-learn/scikit-learn/pulls?q=Nwanna+Joseph)
 - ➕ Also a contributor to the popular [https://ml-cheatsheet.readthedocs.io/](https://github.com/bfortuner/ml-glossary)
 - ➕I love sharing/writing about interesting topics (https://medium.com/@jnwanna)
 
